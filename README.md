@@ -45,11 +45,3 @@ The performance of the trained models is compared using visualizations to unders
 ## Dataset
 
 The dataset used in this project is located at `data/Sentiment Analysis Dataset.csv`. It contains a collection of text data along with corresponding sentiment labels, which serve as the ground truth for training and evaluating the models.
-
-## Usage
-
-To utilize this project:
-
-1. Clone the repository: `git clone https://github.com/your_username/your_repository.git`
-2. Navigate to the project directory: `cd your_repository`
-3. Run the main script: `python main.py`
